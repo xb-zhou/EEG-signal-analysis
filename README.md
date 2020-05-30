@@ -1,1 +1,1 @@
-# Signal-analysis
+学习MNE-Python脑电信号分析工具教程
